@@ -63,7 +63,6 @@
 - [Bob](https://bobtranslate.com/): Translation & OCR software. 💳
 - [ChatGPT](https://openai.com/chatgpt/): ChatGPT official client. 🆓 🔁
 - [CleanShot X](https://cleanshot.com/): Powerful screenshot tool. 💳
-- [Downie](https://software.charliemonroe.net/downie/): Video downloader for many different sites. 💳
 - [Keka](https://www.keka.io/en/): File archiver, compress and extract files. 🆓
 - [KeyClu](https://github.com/Anze/KeyCluCask): Display applications shortcuts. 💚 🆓
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner): Open source mac app cleaner. 💚 🆓
