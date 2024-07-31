@@ -135,7 +135,6 @@
 #### 🗂️ Version Control
 
 - [Fork](https://git-fork.com/): Fast and friendly git client. 🆓 🔁
-- [GitBulter](https://github.com/gitbutlerapp/gitbutler): A Git client for simultaneous branches on top of your existing workflow, currently in trial. 💚 🆓
 
 ### 💬 Social Networking
 
