@@ -77,9 +77,11 @@
 
 ### 📮 Information
 
+- [Follow](https://github.com/RSSNext/follow): Next generation information browser. Subscribe to various social media and RSS.💚 🆓
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Open source RSS reader. 💚 🆓
 - [Omniivore](https://github.com/omnivore-app/omnivore): Open source read-it-later app. 💚 🆓
 - [Planet](https://github.com/Planetable/Planet): Build and host decentralized blogs and websites on your Mac.💚 🆓
+- [Zotero](https://www.zotero.org/): A free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 🆓
 
 ### 📝 Logging
 
@@ -106,6 +108,7 @@
   - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe): Blocks sites you specify from appearing in Google search results.
   - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm): Butify V2EX homepage.
   - [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke): Up to 600% volume boost.
+  - [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc): Save references to Zotero from your web browser.
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev): A Clash Meta GUI app. 💚 🆓
 - [Google Chrome](https://www.google.com/chrome/): Google official brower, secondary browser. 🆓
 - [Safari](https://www.apple.com/safari/): Apple official brower, rarely used. 
@@ -162,6 +165,7 @@
 
 #### 🖥️ Terminal
 
+- [Alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator. 💚 🆓
 - [Warp](https://www.warp.dev/): Modern and fast terminal integrated with AI. 🆓 🔁
 
 #### 🗄️ Server
@@ -191,6 +195,7 @@
 ### 🎮 Entertainment
 
 - [IINA](https://iina.io/): Open source modern media player. 💚 🆓
+- [PlayCover](https://github.com/PlayCover/PlayCover): Run iOS apps and games natively on your Apple Silicon Mac. 💚 🆓
 - [Spotify](https://spotify.com/): Digital music service. 🔁
 - [Steam](https://steampowered.com/): A video game digital distribution service and storefront. 🆓
 - [Vidhub](https://okaapps.com/product/1659622164): Video player, automatically scrapes movie and TV show covers, cast information, and other details. 🆓 🔁 💳
