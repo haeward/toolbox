@@ -79,6 +79,7 @@
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Open source RSS reader. 💚 🆓
 - [Omniivore](https://github.com/omnivore-app/omnivore): Open source read-it-later app. 💚 🆓
+- [Planet](https://github.com/Planetable/Planet): Build and host decentralized blogs and websites on your Mac.💚 🆓
 
 ### 📝 Logging
 
@@ -94,6 +95,17 @@
 ### 🌏 Internet
 
 - [Arc Brower](https://arc.net/): Next-generation browser with excellent design. 🆓
+  - [1Password - Password Manager](https://chromewebstore.google.com/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa): 1Password browser extension is the best way to experience 1Password in your browser.
+  - [Adblock for Youtube™](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk): Removes ads from Youtube™.
+  - [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg): Adblock extension against advertising and pop-ups, blocks most website ads.
+  - [BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp): Butify Bilibili homepage.
+  - [Immersive Translate - Translate Web & PDF](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh): A free-to-use translatation service for foreign language websites, PDF documents, EPUB eBook, or even to generate bilingual subtitles for videos.
+  - [MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn): An Ethereum Wallet in your Browser.
+  - [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa): Easily find and subscribe to RSS and RSSHub.
+  - [Tweetlio X: Twitter Companion](https://chromewebstore.google.com/detail/tweetlio-x-twitter-compan/fepmhecpcjcednhfffhoehebeaoakjbh): Elevate Twitter engagement with curated content.
+  - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe): Blocks sites you specify from appearing in Google search results.
+  - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm): Butify V2EX homepage.
+  - [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke): Up to 600% volume boost.
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev): A Clash Meta GUI app. 💚 🆓
 - [Google Chrome](https://www.google.com/chrome/): Google official brower, secondary browser. 🆓
 - [Safari](https://www.apple.com/safari/): Apple official brower, rarely used. 
@@ -118,10 +130,35 @@
 
 - [Apple XCode](https://developer.apple.com/xcode/): Developer tool for all  Apple platforms. 
 - [JetBrains Intellij IDEA Ultimate](https://www.jetbrains.com/idea/): Best IDE for Java and Kotlin. 🔁
+  - [arthas idea](https://plugins.jetbrains.com/plugin/13581-arthas-idea): Arthas Idea Help Tools, help generated Arthas Common Command.
+  - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons): Atom Material Themes & Plugins.
+  - [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro): Displays a zoomed out overview or minimap similar to the one found in Sublime into the editor pane. The minimap allows for quick scrolling letting you jump straight to sections of code.
+  - [Codeium](https://plugins.jetbrains.com/plugin/20540-codeium-ai-autocomplete-and-chat-for-python-js-java-go--): Free AI-powered code acceleration, provides code completion tool in over 70+ languages.
+  - [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons): Makes tool window icons colorful.
+  - [GenerateSerialVersionUID](https://plugins.jetbrains.com/plugin/185-generateserialversionuid): Adds an serialVersionUID field in the current class or updates it if it already exists, and assigns it the same value the standard 'serialver' JDK tool would return.
+  - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox): Extends Git Integration with additional features.
+  - [MyBatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx): Makes mapper and xml jump back and forth, and supports auto prompt like JPA (reference MybatisCodeHelperPro).
+  - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets): Rainbowify various types brackets(Round, Squiggly, Square, Angle), indent guidelines and scope highlighting.
+  - [RestfulTool2](https://plugins.jetbrains.com/plugin/14280-restful-tool): A set of auxiliary tools for Restful service development.
+  - [WakeTime](https://plugins.jetbrains.com/plugin/7425-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
 - [JetBrains PyCharm Professional Edition](https://www.jetbrains.com/pycharm/): Python IDE for data science and web developement. 🔁
+  - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons): Atom Material Themes & Plugins.
+  - [CodeGlance Pro](https://plugins.jetbrains.com/plugin/18824-codeglance-pro): Displays a zoomed out overview or minimap similar to the one found in Sublime into the editor pane. The minimap allows for quick scrolling letting you jump straight to sections of code.
+  - [Codeium](https://plugins.jetbrains.com/plugin/20540-codeium-ai-autocomplete-and-chat-for-python-js-java-go--): Free AI-powered code acceleration, provides code completion tool in over 70+ languages.
+  - [Extra ToolWindow Colorful Icons](https://plugins.jetbrains.com/plugin/16604-extra-toolwindow-colorful-icons): Makes tool window icons colorful.
+  - [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox): Extends Git Integration with additional features.
+  - [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets): Rainbowify various types brackets(Round, Squiggly, Square, Angle), indent guidelines and scope highlighting.
+  - [WakeTime](https://plugins.jetbrains.com/plugin/7425-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
 - [JetBrains GoLand](https://www.jetbrains.com/go/): Complete IDE for Go development. 🔁
 - [JetBrains RustRover](https://www.jetbrains.com/rust/): Powerhouse IDE for Rust development. 🔁
 - [Visual Studio Code](https://code.visualstudio.com/): Code editor, assisting in development, writing frontend code and markdown. 🆓
+  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and easily perform Git actions from the graph.
+  - [git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin): Automatically generate git commit messages.
+  - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): Add local .gitignore file by pulling .gitignore templates from the [github/gitignore](https://github.com/github/gitignore) repository.
+  - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown/CommonMark linting and style checking.
+  - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons (File/Folder icons) for Visual Studio Code.
+  - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): A rainbow brackets extension for VS Code, provides rainbow colors for the round brackets, the square brackets and the squiggly brackets.
+  - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
 
 #### 🖥️ Terminal
 
@@ -133,7 +170,7 @@
 
 #### 🗂️ Version Control
 
-- [Fork](https://git-fork.com/): Fast and friendly git client. 🆓 🔁
+- [Fork](https://git-fork.com/): Fast and friendly git client, butI usually use the built-in git features in IDEs. 🆓 🔁
 
 ### 💬 Social Networking
 
