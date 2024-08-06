@@ -65,6 +65,7 @@
 - [CleanShot X](https://cleanshot.com/): Powerful screenshot tool. 💳
 - [Keka](https://www.keka.io/en/): File archiver, compress and extract files. 🆓
 - [KeyClu](https://github.com/Anze/KeyCluCask): Display applications shortcuts. 💚 🆓
+- [Ollama](https://github.com/ollama/ollama): Get up and running with large language models. 💚 🆓
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner): Open source mac app cleaner. 💚 🆓
 - [Screen Studio](https://www.screen.studio/): Beautiful and powerful screen recording software. 💳
 
