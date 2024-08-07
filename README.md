@@ -102,6 +102,7 @@
   - [Adblock for Youtube™](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk): Removes ads from Youtube™.
   - [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg): Adblock extension against advertising and pop-ups, blocks most website ads.
   - [BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp): Butify Bilibili homepage.
+  - [ChatGPT Exporter](https://chromewebstore.google.com/detail/chatgpt-exporter-extract/ilmdofdhpnhffldihboadndccenlnfll): Extract and save ChatGPT conversations to markdown, text, JSON, CSV and images.
   - [Immersive Translate - Translate Web & PDF](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh): A free-to-use translatation service for foreign language websites, PDF documents, EPUB eBook, or even to generate bilingual subtitles for videos.
   - [MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn): An Ethereum Wallet in your Browser.
   - [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa): Easily find and subscribe to RSS and RSSHub.
@@ -133,6 +134,7 @@
 #### 📝 Editor
 
 - [Apple XCode](https://developer.apple.com/xcode/): Developer tool for all  Apple platforms. 
+- [Cursor](https://www.cursor.com/): An AI Code Editor. 🆓
 - [JetBrains Intellij IDEA Ultimate](https://www.jetbrains.com/idea/): Best IDE for Java and Kotlin. 🔁
   - [arthas idea](https://plugins.jetbrains.com/plugin/13581-arthas-idea): Arthas Idea Help Tools, help generated Arthas Common Command.
   - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons): Atom Material Themes & Plugins.
