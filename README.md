@@ -46,15 +46,12 @@
 
 - [AlDente](https://github.com/davidwernhart/AlDente): Open source charging limit tool. 💚 💳
 - [Bartender 5](https://www.macbartender.com/): Menu bar management tool, hide software menu bar icon. 💳
-- [BetterDisplay](https://github.com/waydabber/BetterDisplay): Display customization tool. 💚 💳
 - [Command X](https://sindresorhus.com/command-x): Cut and paste files in Finder. 🆓
 - [Input Source Pro](https://inputsource.pro/): Auto-switch keyboards based on different apps and URLs. 🆓
-- [Ityscal](https://www.mowglii.com/itsycal/): Menu bar calendar. 🆓
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html): Logitech configuration tool. 🆓
 - [Maccy](https://github.com/p0deje/Maccy): Open source lightweight clipboard manager. 💚 🆓
 - [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix): Open source mouse driver. 💚 🆓
 - [Raycast](https://www.raycast.com/): Fast, powerful and extendable launcher. 🆓 💳
-- [Runcat](https://kyome.io/runcat/index.html?lang=en): A cat living in the menu bar, display CPU usage. 🆓
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/): Manually control Time Machine backup schedule. 🆓
 
 ### 🧰 Utilities
@@ -71,7 +68,6 @@
 
 ### 📁 File Management
 
-- [aDrive](https://www.alipan.com/): 1.8T, media storage. 🆓 🔁
 - [iCloud](https://www.icloud.com/): 50GB, photo backup and software data synchronization. 🆓 🔁
 - [Maestral](https://github.com/samschott/maestral): Open source lightweight Dropbox client. 💚 🆓
 - [PicGo](https://github.com/Molunerfinn/PicGo): Image hosting management tool. 💚 🆓
@@ -82,6 +78,7 @@
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Open source RSS reader. 💚 🆓
 - [Omniivore](https://github.com/omnivore-app/omnivore): Open source read-it-later app. 💚 🆓
 - [Planet](https://github.com/Planetable/Planet): Build and host decentralized blogs and websites on your Mac.💚 🆓
+- [Z-Library](https://z-library.rs/): The world's largest ebook library.
 - [Zotero](https://www.zotero.org/): A free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 🆓
 
 ### 📝 Logging
@@ -112,7 +109,6 @@
   - [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke): Up to 600% volume boost.
   - [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc): Save references to Zotero from your web browser.
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev): A Clash Meta GUI app. 💚 🆓
-- [Google Chrome](https://www.google.com/chrome/): Google official brower, secondary browser. 🆓
 - [Safari](https://www.apple.com/safari/): Apple official brower, rarely used. 
 
 ### 👨🏻‍💻 Developer Tools
@@ -169,7 +165,7 @@
 #### 🖥️ Terminal
 
 - [Alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator. 💚 🆓
-- [Warp](https://www.warp.dev/): Modern and fast terminal integrated with AI. 🆓 🔁
+- [Kitty](https://sw.kovidgoyal.net/kitty/): The fast, feature-rich, GPU based terminal emulator. 🆓
 
 #### 🗄️ Server
 
@@ -182,7 +178,6 @@
 ### 💬 Social Networking
 
 - [Apple Mail](https://www.icloud.com/mail): Apple native mail client. 
-- [DingTalk](https://www.dingtalk.com/): Enterprise communication and collaboration platform, just for work. 🆓
 - [Discord](https://discord.com/): An interesting community for group chat and games, getting information and feedback. 🆓
 - [QQ](https://im.qq.com/): An instant messaging tool, just keeping friends's contact. 🆓
 - [Telegram](https://telegram.org/): A cloud-based, encrypted, cross-platform, instant messaging service. 🆓 🔁
