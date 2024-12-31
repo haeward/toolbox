@@ -8,7 +8,6 @@
     - [📮 Information](#-information)
     - [📝 Logging](#-logging)
     - [🌏 Internet](#-internet)
-    - [🔐 Security](#-security)
     - [👨🏻‍💻 Developer Tools](#-developer-tools)
       - [❤️‍🔥 API Debugging](#️-api-debugging)
       - [⛴️ Container](#️-container)
@@ -24,15 +23,16 @@
 ## Device
 
 - Apple MacBook Pro (14-inch, 2023), Sliver, M2 Pro, 32 GB RAM, 521GB SSD
-- Apple iPad (2020), Sliver, 128GB
+- Apple iPad mini 7, Blue, 128GB
 - Apple iPhone 13, Blue, 128GB
 - Apple AirPods Pro (2nd generation)
 - Apple Watch Series 8 (Aluminum, 41mm), Midnight, GPS
 - Logitech MX Keys Mini, Pale Gray
+- KZZI K75 Pro, Knight Gray
 - Razer Viper Mini
 - Dockcase Explorer Edition:Smart 7-in-1 USB-C Hub - Glossy Silver
 - TORRAS Low Temp 30W USB C Charger Block, Midnight Purple
-- Shargeek USB C Charger, 100W GaN Charger Fast Wall Charger, Yellow
+- AOHI Magcube Pro 140W GaN+ 2 USB-C and 1 USB-A Fast Charger
 
 ## Software
 
@@ -45,41 +45,37 @@
 ### 🛠 System Extension
 
 - [AlDente](https://github.com/davidwernhart/AlDente): Open source charging limit tool. 💚 💳
-- [Bartender 5](https://www.macbartender.com/): Menu bar management tool, hide software menu bar icon. 💳
+- [Ice](https://github.com/jordanbaird/Ice): Menu bar management tool, Bartender alternative. 💚 🆓
 - [Command X](https://sindresorhus.com/command-x): Cut and paste files in Finder. 🆓
 - [Input Source Pro](https://inputsource.pro/): Auto-switch keyboards based on different apps and URLs. 🆓
 - [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html): Logitech configuration tool. 🆓
 - [Maccy](https://github.com/p0deje/Maccy): Open source lightweight clipboard manager. 💚 🆓
-- [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix): Open source mouse driver. 💚 🆓
+- [Mos](https://github.com/Caldis/Mos): Open source mouse driver. 💚 🆓
 - [Raycast](https://www.raycast.com/): Fast, powerful and extendable launcher. 🆓 💳
 - [TimeMachineEditor](https://tclementdev.com/timemachineeditor/): Manually control Time Machine backup schedule. 🆓
 
 ### 🧰 Utilities
 
-- [Applite](https://github.com/milanvarady/Applite): User-friendly GUI app for Homebrew Casks. 💚 🆓
 - [Bob](https://bobtranslate.com/): Translation & OCR software. 💳
 - [ChatGPT](https://openai.com/chatgpt/): ChatGPT official client. 🆓 🔁
 - [CleanShot X](https://cleanshot.com/): Powerful screenshot tool. 💳
 - [Keka](https://www.keka.io/en/): File archiver, compress and extract files. 🆓
-- [KeyClu](https://github.com/Anze/KeyCluCask): Display applications shortcuts. 💚 🆓
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models. 💚 🆓
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner): Open source mac app cleaner. 💚 🆓
 - [Screen Studio](https://www.screen.studio/): Beautiful and powerful screen recording software. 💳
+- [TickTick](https://ticktick.com/): Simple and rich-featured task management app. 🆓 🔁
 
 ### 📁 File Management
 
+- [calibre](https://calibre-ebook.com/): A a powerful and easy to use e-book manager. 🆓
 - [iCloud](https://www.icloud.com/): 50GB, photo backup and software data synchronization. 🆓 🔁
 - [Maestral](https://github.com/samschott/maestral): Open source lightweight Dropbox client. 💚 🆓
-- [PicGo](https://github.com/Molunerfinn/PicGo): Image hosting management tool. 💚 🆓
+- [uPic](https://github.com/Molunerfinn/PicGo): Image upload tool. 💚 🆓
 
 ### 📮 Information
 
 - [Follow](https://github.com/RSSNext/follow): Next generation information browser. Subscribe to various social media and RSS.💚 🆓
-- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): Open source RSS reader. 💚 🆓
-- [Omniivore](https://github.com/omnivore-app/omnivore): Open source read-it-later app. 💚 🆓
 - [Planet](https://github.com/Planetable/Planet): Build and host decentralized blogs and websites on your Mac.💚 🆓
-- [Z-Library](https://z-library.rs/): The world's largest ebook library.
-- [Zotero](https://www.zotero.org/): A free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 🆓
 
 ### 📝 Logging
 
@@ -87,27 +83,23 @@
 - [Notion](https://www.notion.so/): A versatile all-in-one workspace and productivity tool, mainly using database. 🆓 🔁
 - [Obsidian](https://obsidian.md/): Write, build second brain/digital garden. Use iCloud to sync settings and vaults. 🆓
 
-### 🔐 Security
-
-- [1Password](https://1password.com/): Passwords manager, also for passkeys and sensitive information. 🔁
-- [Cryptomator](https://github.com/cryptomator/cryptomator): Multi-platform transparent client-side encryption of your files in the cloud. 💚 🆓
-
 ### 🌏 Internet
 
-- [Arc Brower](https://arc.net/): Next-generation browser with excellent design. 🆓
-  - [1Password - Password Manager](https://chromewebstore.google.com/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa): 1Password browser extension is the best way to experience 1Password in your browser.
-  - [Adblock for Youtube™](https://chromewebstore.google.com/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk): Removes ads from Youtube™.
+- [Google Chrome](https://www.google.com/chrome/): A stable web browser developed by Google. 🆓
   - [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg): Adblock extension against advertising and pop-ups, blocks most website ads.
+  - [AITDK SEO Extension](https://chromewebstore.google.com/detail/aitdk-seo-extension-traff/hhfkpjffbhledfpkhhcoidplcebgdgbk): All-In-One SEO Extension that provides free traffic/keywords/whois/website SEO analyzer.
   - [BewlyBewly](https://chromewebstore.google.com/detail/bewlybewly/bbbiejemhfihiooipfcjmjmbfdmobobp): Butify Bilibili homepage.
-  - [ChatGPT Exporter](https://chromewebstore.google.com/detail/chatgpt-exporter-extract/ilmdofdhpnhffldihboadndccenlnfll): Extract and save ChatGPT conversations to markdown, text, JSON, CSV and images.
+  - [Bitwarden Password Manager](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb): The trusted password manager.
   - [Immersive Translate - Translate Web & PDF](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh): A free-to-use translatation service for foreign language websites, PDF documents, EPUB eBook, or even to generate bilingual subtitles for videos.
+  - [Infinity New Tab (Pro)](https://chromewebstore.google.com/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh): Customize your New Tab page.
+  - [Material Icons for GitHub](https://chromewebstore.google.com/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc): Replace GitHub's default icons with icons from Visual Studio Code's Material Icon Theme icons.
   - [MetaMask](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn): An Ethereum Wallet in your Browser.
+  - [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf): Save content to Obsidian from the web in a private and durable format that you can access offline.
+  - [Raindrop.io](https://chromewebstore.google.com/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien): All-in-one bookmark manager.
   - [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa): Easily find and subscribe to RSS and RSSHub.
-  - [Tweetlio X: Twitter Companion](https://chromewebstore.google.com/detail/tweetlio-x-twitter-compan/fepmhecpcjcednhfffhoehebeaoakjbh): Elevate Twitter engagement with curated content.
-  - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe): Blocks sites you specify from appearing in Google search results.
+  - [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh): A permission-less content blocker.
+  - [UnTrap for YouTube](https://chromewebstore.google.com/detail/untrap-for-youtube/enboaomnljigfhfjfoalacienlhjlfil): A browser extension for users who seek a focused and distraction-free YouTube browsing experience.
   - [V2EX Polish](https://chromewebstore.google.com/detail/v2ex-polish/onnepejgdiojhiflfoemillegpgpabdm): Butify V2EX homepage.
-  - [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke): Up to 600% volume boost.
-  - [Zotero Connector](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc): Save references to Zotero from your web browser.
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev): A Clash Meta GUI app. 💚 🆓
 - [Safari](https://www.apple.com/safari/): Apple official brower, rarely used. 
 
@@ -115,7 +107,6 @@
 
 #### ❤️‍🔥 API Debugging
 
-- [JetBrains Aqua](https://www.jetbrains.com/aqua/): The IDE for test automation. 🔁
 - [RapidAPI](https://paw.cloud/): A full-featured HTTP client. 🆓
 
 #### ⛴️ Container
@@ -130,7 +121,7 @@
 #### 📝 Editor
 
 - [Apple XCode](https://developer.apple.com/xcode/): Developer tool for all  Apple platforms. 
-- [Cursor](https://www.cursor.com/): An AI Code Editor. 🆓
+- [Cursor](https://www.cursor.com/): AI Code Editor. 🆓
 - [JetBrains Intellij IDEA Ultimate](https://www.jetbrains.com/idea/): Best IDE for Java and Kotlin. 🔁
   - [arthas idea](https://plugins.jetbrains.com/plugin/13581-arthas-idea): Arthas Idea Help Tools, help generated Arthas Common Command.
   - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons): Atom Material Themes & Plugins.
@@ -156,16 +147,18 @@
 - [Visual Studio Code](https://code.visualstudio.com/): Code editor, assisting in development, writing frontend code and markdown. 🆓
   - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and easily perform Git actions from the graph.
   - [git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin): Automatically generate git commit messages.
+  - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot): An AI pair programmer tool that helps you write code faster and smarter.
+  - [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat): A companion extension that provides conversational AI assistance.
   - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore): Add local .gitignore file by pulling .gitignore templates from the [github/gitignore](https://github.com/github/gitignore) repository.
   - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown/CommonMark linting and style checking.
   - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons (File/Folder icons) for Visual Studio Code.
+  - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager): Easily switch between projects.
   - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): A rainbow brackets extension for VS Code, provides rainbow colors for the round brackets, the square brackets and the squiggly brackets.
   - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime): Metrics, insights, and time tracking automatically generated from your programming activity.
 
 #### 🖥️ Terminal
 
-- [Alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator. 💚 🆓
-- [Kitty](https://sw.kovidgoyal.net/kitty/): The fast, feature-rich, GPU based terminal emulator. 🆓
+- [Ghostty](https://github.com/ghostty-org/ghostty): A fast, feature-rich, and cross-platform terminal emulator. 💚 🆓
 
 #### 🗄️ Server
 
@@ -179,7 +172,6 @@
 
 - [Apple Mail](https://www.icloud.com/mail): Apple native mail client. 
 - [Discord](https://discord.com/): An interesting community for group chat and games, getting information and feedback. 🆓
-- [QQ](https://im.qq.com/): An instant messaging tool, just keeping friends's contact. 🆓
 - [Telegram](https://telegram.org/): A cloud-based, encrypted, cross-platform, instant messaging service. 🆓 🔁
 - [WeChat](https://www.wechat.com/): Primary isntant messaging tool, frequently used. 🆓
 
@@ -193,7 +185,6 @@
 ### 🎮 Entertainment
 
 - [IINA](https://iina.io/): Open source modern media player. 💚 🆓
-- [PlayCover](https://github.com/PlayCover/PlayCover): Run iOS apps and games natively on your Apple Silicon Mac. 💚 🆓
+- [kazumi](https://github.com/Predidit/Kazumi): Anime collection APP based on custom rules. 💚 🆓
 - [Spotify](https://spotify.com/): Digital music service. 🔁
 - [Steam](https://steampowered.com/): A video game digital distribution service and storefront. 🆓
-- [Vidhub](https://okaapps.com/product/1659622164): Video player, automatically scrapes movie and TV show covers, cast information, and other details. 🆓 🔁 💳
